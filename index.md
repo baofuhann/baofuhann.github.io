@@ -27,7 +27,7 @@ I research machine learning and optimization techniques for data systems, with a
 
 - [Repeated Game-Based Long-Term Incentive Mechanism for Blockchain-Enabled Reliable Federated Learning in IIoT](https://ieeexplore.ieee.org/document/10891702). **Baofu Han**, Bing Li, Yan Zhang, Pan Feng, Katinka Wolter, Hao Zhang, Yuqi Li, Raja Jurdak, Chau Yuen. *IEEE Internet of Things Journal, 2025.*
 
-- [Flight Altitude Prediction and Common Cause Failure Protection Based on the Diffusion Model](#). Yong Hu, Hongtao Jin, Bin Xie, Yong Wang, Shujian Huang, Hao Ge, **Baofu Han**. *Aerospace Science and Technology, 2026.*
+- [Flight Altitude Prediction and Common Cause Failure Protection Based on the Diffusion Model](#). Yinxiao Hu, Hui Jin, Benlai Xie, Yufan Wang, Shijie Huang, Hongjuan Ge, **Baofu Han**. *Aerospace Science and Technology, 2026.*
 
 - [DP2Guard: A Lightweight and Byzantine-Robust Privacy-Preserving Federated Learning Scheme for Industrial IoT](https://arxiv.org/abs/2507.16134). **Baofu Han**, Bing Li, Yining Qi, Raja Jurdak, Kaibin Huang, Chau Yuen. *arXiv:2507.16134, 2025.*
 
