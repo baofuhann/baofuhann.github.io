@@ -1,19 +1,19 @@
 ---
 layout: default
 title: Baofu Han
-description: I am a PhD student at the School of Cyber Science and Engineering, Southeast University,
-  and a visiting PhD student at the National University of Singapore.
+description: I will join the Singapore University of Technology and Design as a Research Fellow.
+  I received my Ph.D. from the School of Cyber Science and Engineering, Southeast University.
   My research focuses on machine learning and optimization techniques for data systems.
 ---
 
 # Baofu Han
 <img src="/static/baofu.jpg" alt="Baofu Han" style="width: 200px; float: right; margin: 10px"/>
 
-I am a PhD student at the School of Cyber Science and Engineering, Southeast University, advised by Prof. Bing Li.
+I will join the Singapore University of Technology and Design as a Research Fellow in [Prof. Chee Yeow Meng](https://www.sutd.edu.sg/profile/chee-yeow-meng/)'s group.
 
-I am currently a visiting PhD student at the National University of Singapore, advised by [Prof. Beng Chin Ooi](https://www.comp.nus.edu.sg/~ooibc/), where I work on efficient indexing in [NeurDB](https://neurdb.org/people).
+I received my Ph.D. from the School of Cyber Science and Engineering, Southeast University, where I was advised by Prof. Bing Li. I was also a visiting Ph.D. student at the National University of Singapore, advised by [Prof. Beng Chin Ooi](https://www.comp.nus.edu.sg/~ooibc/), where I worked on efficient indexing in [NeurDB](https://neurdb.org/people).
 
-I research machine learning and optimization techniques for data systems, with a focus on **self-designing learned indexes**, **secure learned indexes**, and **privacy-preserving federated learning**.
+My research focuses on machine learning and optimization techniques for data systems, including **self-designing learned indexes**, **secure learned indexes**, and **privacy-preserving federated learning**.
 
 <i class="fa-brands fa-google-scholar"></i> [Google Scholar](https://scholar.google.com/citations?user=hjrZh74AAAAJ) \| <i class="fa-brands fa-github"></i> [GitHub](https://github.com/baofuhann) \| <i class="fa-solid fa-envelope"></i> baofu.han@comp.nus.edu.sg
 
@@ -21,15 +21,15 @@ I research machine learning and optimization techniques for data systems, with a
 
 ## Selected Publications
 
-- [On Self-Designing Learned Indexes](#). **Baofu Han**, Guoyu Hu, Bing Li, Xiaokui Xiao, Zhanhao Zhao\*, [Beng Chin Ooi](https://www.comp.nus.edu.sg/~ooibc/). *SIGMOD 2026. To appear.*
+- [On Self-Designing Learned Indexes](https://dl.acm.org/doi/abs/10.1145/3802096). **Baofu Han**, Guoyu Hu, Bing Li, Xiaokui Xiao, Zhanhao Zhao\*, [Beng Chin Ooi](https://www.comp.nus.edu.sg/~ooibc/). *SIGMOD 2026.*
 
-- [PBFL: A Privacy-Preserving Blockchain-Based Federated Learning Framework With Homomorphic Encryption and Single Masking](https://ieeexplore.ieee.org/document/10897004). **Baofu Han**, Bing Li, Raja Jurdak, Peiyun Zhang, Hao Zhang, Pan Feng, Chau Yuen. *IEEE Internet of Things Journal, 2025.*
+- [PBFL: A Privacy-Preserving Blockchain-Based Federated Learning Framework With Homomorphic Encryption and Single Masking](https://ieeexplore.ieee.org/document/10819476). **Baofu Han**, Bing Li, Raja Jurdak, Peiyun Zhang, Hao Zhang, Pan Feng, [Chau Yuen](https://scholar.google.com/citations?user=7VLbLUMAAAAJ&hl=zh-CN). *IEEE Internet of Things Journal, 2025.*
 
-- [Repeated Game-Based Long-Term Incentive Mechanism for Blockchain-Enabled Reliable Federated Learning in IIoT](https://ieeexplore.ieee.org/document/10891702). **Baofu Han**, Bing Li, Yan Zhang, Pan Feng, Katinka Wolter, Hao Zhang, Yuqi Li, Raja Jurdak, Chau Yuen. *IEEE Internet of Things Journal, 2025.*
+- [Repeated Game-Based Long-Term Incentive Mechanism for Blockchain-Enabled Reliable Federated Learning in IIoT](https://ieeexplore.ieee.org/document/11130522). **Baofu Han**, Bing Li, Yan Zhang, Pan Feng, Katinka Wolter, Hao Zhang, Yuqi Li, Raja Jurdak, [Chau Yuen](https://scholar.google.com/citations?user=7VLbLUMAAAAJ&hl=zh-CN). *IEEE Internet of Things Journal, 2025.*
 
 - [Flight Altitude Prediction and Common Cause Failure Protection Based on the Diffusion Model](#). Yinxiao Hu, Hui Jin, Benlai Xie, Yufan Wang, Shijie Huang, Hongjuan Ge, **Baofu Han**. *Aerospace Science and Technology, 2026.*
 
-- [DP2Guard: A Lightweight and Byzantine-Robust Privacy-Preserving Federated Learning Scheme for Industrial IoT](https://arxiv.org/abs/2507.16134). **Baofu Han**, Bing Li, Yining Qi, Raja Jurdak, Kaibin Huang, Chau Yuen. *arXiv:2507.16134, 2025.*
+- [DP2Guard: A Lightweight and Byzantine-Robust Privacy-Preserving Federated Learning Scheme for Industrial IoT](https://arxiv.org/abs/2507.16134). **Baofu Han**, Bing Li, Yining Qi, [Zhiquan Liu](https://scholar.google.com/citations?user=bx9xr70AAAAJ&hl=zh-CN), Raja Jurdak, Kaibin Huang, [Chau Yuen](https://scholar.google.com/citations?user=7VLbLUMAAAAJ&hl=zh-CN). *arXiv:2507.16134, 2025.*
 
 
 <!-- ## Education
