@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Baofu Han
+title: Baofu Han's Homepage
 email: baofu.han@comp.nus.edu.sg
 description: >- # this means to ignore newlines until "baseurl:"
-  I will join the Singapore University of Technology and Design as a Research Fellow.
+  I will join the Singapore University of Technology and Design (SUTD) as a Research Fellow.
   I received my Ph.D. from the School of Cyber Science and Engineering, Southeast University.
   My research focuses on machine learning and optimization techniques for data systems.
 baseurl: "" # the subpath of your site, e.g. /blog
