@@ -44,5 +44,6 @@ My research focuses on machine learning and optimization techniques for data sys
 - IEEE Transactions on Network and Service Management (TNSM)
 - IEEE Transactions on Mobile Computing (TMC)
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
+- IEEE Transactions on Information Forensics and Security (TIFS)
 - IEEE Transactions on Parallel and Distributed Systems (TPDS)
 - IEEE Internet of Things Journal (IoT-J)
