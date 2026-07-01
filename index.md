@@ -1,15 +1,12 @@
 ---
 layout: default
 title: Baofu Han
-description: I will join the Singapore University of Technology and Design (SUTD) as a Research Fellow.
-  I received my Ph.D. from the School of Cyber Science and Engineering, Southeast University.
+description: I received my Ph.D. from the School of Cyber Science and Engineering, Southeast University.
   My research focuses on machine learning and optimization techniques for data systems.
 ---
 
 # Baofu Han (韩宝富)
 <img src="/static/baofu.jpg" alt="Baofu Han" style="width: 200px; float: right; margin: 10px"/>
-
-I will join the Singapore University of Technology and Design (SUTD) as a Research Fellow in [Prof. Chee Yeow Meng](https://www.sutd.edu.sg/profile/chee-yeow-meng/)'s group.
 
 I received my Ph.D. from the School of Cyber Science and Engineering, Southeast University, where I was advised by Prof. Bing Li. From 2024 to 2026, I was also a visiting Ph.D. student at the National University of Singapore, advised by [Prof. Beng Chin Ooi](https://www.comp.nus.edu.sg/~ooibc/), where I worked on efficient indexing in [NeurDB](https://neurdb.org/people).
 
