@@ -39,9 +39,6 @@ My research focuses on machine learning and optimization techniques for data sys
 
 ## Service
 
-#### Program Committee
-- International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP), 2026
-
 #### Journal Reviewer
 - IEEE Transactions on Network Science and Engineering (TNSE)
 - IEEE Transactions on Network and Service Management (TNSM)
